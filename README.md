@@ -1,6 +1,6 @@
 # Rhoe Releases
 
-Public release distribution for [Rhoe](https://github.com/Stavook/rhoe-source) — a desktop customer relationship manager for plumbing and service work.
+Public release distribution for Rhoe — a lightweight cross-platform customer relationship manager.
 
 ## Download
 
